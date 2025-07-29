@@ -34,7 +34,7 @@ Technologies:
 
 ## 📸 Preview:
 
-![پیش‌نمایش اپلیکیشن](./assets/screenshot.png)
+![پیش‌نمایش اپلیکیشن](screenshot.png)
 
 
 ## 🤝 Author:
